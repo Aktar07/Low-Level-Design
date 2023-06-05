@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryDesignPattern;
 
 public class Square implements Shape{
 
